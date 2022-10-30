@@ -4,5 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Info
 Search in the input and api calls will be made using useEffect
+HOSTED here https://movie-database-api-react.netlify.app/
+
+## Author
+Aron Mahuika https://github.com/amahuika/
 
 
