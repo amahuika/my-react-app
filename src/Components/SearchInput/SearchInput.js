@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import "./SearchInput.css";
 
 function SearchInput(props) {
@@ -20,3 +21,15 @@ function SearchInput(props) {
 }
 
 export default SearchInput;
+=======
+function SearchInput() {
+  return (
+    <div>
+      <form>
+        <label></label>
+        <input type="text" />
+      </form>
+    </div>
+  );
+}
+>>>>>>> d9d5e83b84a8f384d246f5dd35fee688f487a0cc

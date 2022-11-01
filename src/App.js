@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 import Header from "./Components/Header/Header";
+<<<<<<< HEAD
 import SearchInput from "./Components/SearchInput/SearchInput";
 import Modal from "./Components/Modal/Modal";
 
@@ -77,6 +78,15 @@ function App() {
             })}
         </div>
       </div>
+=======
+function App() {
+  const [inputSearch, setInputSearch] = useState("");
+  const [apiResults, setApiResults] = useState("");
+
+  return (
+    <div className="App">
+      <Header />
+>>>>>>> d9d5e83b84a8f384d246f5dd35fee688f487a0cc
     </div>
   );
 }
