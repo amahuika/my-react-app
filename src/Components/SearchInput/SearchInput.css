@@ -1,0 +1,10 @@
+.form-action {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+}
+
+.form-action label,
+button {
+  display: block;
+}
